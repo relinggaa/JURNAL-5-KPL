@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\modul5_103022300107\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4576DEEF-D89E-4D45-A916-EB985AC6F59E}|modul5_103022300107.csproj|d:\\modul5_103022300107\\pemrosesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4576DEEF-D89E-4D45-A916-EB985AC6F59E}|modul5_103022300107.csproj|solutionrelative:pemrosesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4576DEEF-D89E-4D45-A916-EB985AC6F59E}|modul5_103022300107.csproj|d:\\modul5_103022300107\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4576DEEF-D89E-4D45-A916-EB985AC6F59E}|modul5_103022300107.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PemrosesData.cs",
+              "DocumentMoniker": "D:\\modul5_103022300107\\PemrosesData.cs",
+              "RelativeDocumentMoniker": "PemrosesData.cs",
+              "ToolTip": "D:\\modul5_103022300107\\PemrosesData.cs",
+              "RelativeToolTip": "PemrosesData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:55:41.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\modul5_103022300107\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\modul5_103022300107\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T23:45:21.546Z",
               "EditorCaption": ""
